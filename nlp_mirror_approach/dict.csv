@@ -1,0 +1,26 @@
+Word,Sentiment Score,Subjectivity Score,Concreteness Score,Polarity Score,Arousal Score
+Effervescent,0.7,0.5,0.4,0.6,0.8
+Enigmatic,0.6,0.6,0.5,0.2,0.4
+Mellifluous,0.7,0.3,0.6,0.5,0.4
+Surreptitious,0.4,0.5,0.5,0.3,0.3
+Ephemeral,0.3,0.4,0.3,0.2,0.4
+Clandestine,0.2,0.5,0.4,0.1,0.3
+Serendipity,0.8,0.7,0.5,0.8,0.9
+Quintessential,0.6,0.3,0.7,0.4,0.3
+Ethereal,0.7,0.5,0.4,0.6,0.7
+Opulent,0.7,0.4,0.7,0.6,0.6
+Melancholy,0.3,0.6,0.4,0.1,0.3
+Resplendent,0.7,0.4,0.6,0.6,0.7
+Nostalgia,0.4,0.7,0.4,0.2,0.4
+Effusive,0.7,0.5,0.4,0.5,0.7
+Labyrinthine,0.2,0.6,0.5,0.1,0.4
+Incandescent,0.6,0.4,0.5,0.5,0.7
+Ineffable,0.5,0.8,0.3,0.1,0.6
+Serene,0.7,0.3,0.7,0.6,0.4
+Resonance,0.5,0.4,0.6,0.2,0.5
+Serenity,0.8,0.4,0.6,0.7,0.2
+Euphoria,0.8,0.6,0.8,0.7,0.9
+Querulous,0.2,0.7,0.4,0.1,0.4
+Luminary,0.7,0.4,0.6,0.5,0.8
+Bucolic,0.6,0.3,0.7,0.4,0.7
+Tranquil,0.7,0.4,0.7,0.6,0.5
