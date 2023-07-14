@@ -43,7 +43,7 @@ final_prompt = PromptTemplate(
     4. Polarity Score
     5. Arousal Scoret
 
-    Perform the second step three times internally and then, perform this step next and give the output. After this, using the scores you remember, find top 5 similar words from the csv dictionary below.
+    Perform the second step three times internally and then, perform this step next and give the output. After this, using the scores you remember, find top 5 similar words from the csv dictionary below. Don't output the parameter scores.
 
     ``` These are Strict Instructions ```
 
